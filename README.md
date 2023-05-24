@@ -1,5 +1,5 @@
 
-# StudyMate - Online Discussion Room Platform (Django) ✨
+
 
 StudyMate is a web application built with Django that allows users to create and join discussion rooms for engaging in meaningful discussions. It provides a platform where users can share knowledge, exchange ideas, and collaborate on various topics of interest. The application implements user authentication, ensuring that only authenticated users can create rooms and participate in discussions. Users have the ability to create, edit, and delete their own discussions and rooms, enabling them to manage their content effectively🚀.
 
